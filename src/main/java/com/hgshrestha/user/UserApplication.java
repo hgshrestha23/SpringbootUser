@@ -17,5 +17,5 @@ public class UserApplication {
 		return new  RestTemplate();
 	}
 	
-	
+	//run department service first to use this service
 }
